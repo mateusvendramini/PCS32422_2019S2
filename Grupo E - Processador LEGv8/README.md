@@ -78,3 +78,5 @@ O repositório de desenvolvimento do projeto está disponível em:
 https://github.com/FernandoVGMonteiro/orgarq2
 
 O projeto do LEGv8 full pipeline encontra-se na pasta exp3 desse repositório. exp2 diz respeito a implementação do pipeline do livro e exp1 a implementação monociclo.
+
+A pasta doc/ contém o relatório final, a apresentação dos resultados e a tabela utilizada para o projeto da unidade de controle.
